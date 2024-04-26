@@ -13,9 +13,6 @@
 <br>
 **포트폴리오 보러가기** https://ggm.gondr.net/user/profile/51
 
-
-<br>
-<br>
 <br>
 
 <h4 align="left">▶ Languages & Links </h4> 
@@ -28,8 +25,6 @@
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white">
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white">
 
-<br>
-<br>
 <br>
 
 <h4 align="left">▶ Tools </h4> 
@@ -44,8 +39,6 @@
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-<br>
-<br>
 <br>
 
 <h4 align="left">▶ Career </h4> 
@@ -69,15 +62,6 @@
 - **2024 Hitpoints & History Game Jam : 3등**
 
 - **2024 Scorespace Jam #28 : 16등**
-
-
-<br>
-<br>
-<br>
-
-
-
-
 <h4 align="left">▶ GitHub </h4> 
 
 **꾸준한 모습을 보이겠습니다.**
