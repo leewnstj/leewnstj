@@ -12,8 +12,9 @@
 ---
 
 <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white"> **: ljunseo06**
-
-<a href = "https://github.com/leewnstj"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> <a/> **: leewnstj**
+<br>
+<br>
+**포트폴리오 보러가기** https://ggm.gondr.net/user/profile/51
 
 
 <br>
@@ -91,7 +92,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leewnstj&theme=codestackr)](https://git.io/streak-stats)
 
 [![Kimjunho06's github stats](https://github-readme-stats.vercel.app/api?username=leewnstj&show_icons=true&theme=dracula)](https://github.com/leewnstj)
-
-<br>
-
-**더 자세한 정보는 자소서를 참고해 주세요!**
