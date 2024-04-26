@@ -1,9 +1,6 @@
 
 # 안녕하세요. 게임 클라이언트 지망 이준서입니다. </h4>
 
-<br>
-<br>
-<br>
 
 <h4 align="left">▶ My Information </h4> 
 
